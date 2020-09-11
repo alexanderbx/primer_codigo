@@ -1,0 +1,46 @@
+Productos
+=========
+
+Imprimit todos los productos en formato "llave = valor"
+Bonus: Imprimir solo los productos que empiecen con 'C'
+
+Contiene la llave 'breadfruit'?
+true
+
+Contiene la llave 'lombra'?
+false
+
+Cual es el valor de los productos 'plantain', 'tamarind' y 'jabuticaba'?
+152, 225, 272
+
+
+Colores
+=======
+
+Imprimit todos los colores en formato "llave = valor"
+Bonus: Imprimir solo los colores que su valor termine con B
+
+Contiene la llave 'amazon'?
+true
+
+Contiene la llave 'amberance'?
+false
+
+Cual es el valor de los colores 'android_green', 'bistre_brown' y 'dartmouth_green'?
+#A4C639, #967117, #00703C
+
+
+Letras
+======
+
+Imprimit todas las letras en formato "llave = valor"
+Bonus: Imprimir solo las letras entre 'C' y 'M' incluyendo 'C' y 'M'
+
+Contiene la llave 'a'?
+true
+
+Contiene la llave 'ñ'?
+false
+
+Cual es el valor de las letras 'n', 'p' y 'v'?
+N, P, V

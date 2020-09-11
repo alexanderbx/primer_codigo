@@ -1,0 +1,59 @@
+Bascula
+
+1. Dar bienvenida
+2. Pedir moneda a usuario
+3. Calcular peso
+4. Mostrar peso calculado
+5. Dar gracias por usar bascula
+6. Repetir proceso
+
+
+
+Moledor de café
+
+1. Solicitar café
+2. Pedir molienda para moler café
+3. Moler café
+4. Entregar molienda
+5. Repetir proceso hasta escribir apagar
+
+
+
+
+
+
+Deposito
+
+1. Dar bienvenida
+2. Solicitar libreta
+3. Solicitar numero de cuenta
+4. Solicitar monto a ingresar
+5. Anotar monto ingresado
+6. Devolver libreta
+7. Dar gracias
+
+
+
+Asignar salon 
+
+1. Dar bienvenida
+2. Pedir nombre
+3. Solicitar resultado de tres examenes
+4. Si promedio >= 80 
+    asignar salon a
+   Si promedio >= 50 && < 80 
+    asignar salon b
+   Si promedio < 50
+    asignar salon c
+5. Desear exitos
+
+
+Ir a supermercado
+
+1. Crear apunte de lo que se comprara
+2. Asegurar de llevar el apunte
+3. Subir al carro y encenderlo
+4. Conducir hasta el supermercado
+5. Parquerme
+6. Bajar del carro
+7. Entrar al supermercado.

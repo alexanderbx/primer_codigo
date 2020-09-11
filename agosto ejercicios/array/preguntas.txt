@@ -1,0 +1,48 @@
+Productos
+=========
+Imprimir todos los productos
+Bonus: imprimir solo los productos que empiecen con D
+
+Contiene 'chico'?
+true
+
+Contiene 'chillo'?
+false
+
+En que posicion estan 'coconut', 'hala' y 'mangosteen'?
+21, 37, 57
+
+
+Colores
+=======
+
+Imprimir todos los colores
+Bonus: imprimir solo los colores entre las posiciones 10 y 24
+
+Contiene 'blue'?
+true
+
+Contiene 'bluez'?
+false
+
+En que posicion estan 'fulvous', 'frostbite' y 'carrot_orange'?
+334, 329, 148
+
+
+Letras
+======
+
+Imprimir todas letras mayores a 'F'
+
+
+
+Bonus: imprimir solo las letras entre las posiciones 8 y 16
+
+Contiene 'O'?
+true
+
+Contiene 'Ñ'?
+false
+
+En que posicion estan 'Y', 'T', 'Q'?
+23, 18, 15
